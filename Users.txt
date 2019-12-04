@@ -3,4 +3,4 @@ General User
   Tourist
   Parent
   Teenager
-  
+  Developer
