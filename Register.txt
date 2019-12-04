@@ -1,0 +1,34 @@
+Register
+
+Group meetings
+
+Date: 28/11/2019
+Attendance:
+* Utpal
+* Sonam
+* Dimitri
+* Linardo
+Topic of discussion: User stories
+Detail: We created 15 – 20 user stories to get possible functionalities of the app.
+
+Date: 04/12/2019
+Attendance:
+* Utpal
+* Sonam
+* Dimitri
+* Linardo
+Topic of discussion: User stories and Data Structure
+Detail: …
+
+Tutor meetings
+
+Date: 29/11/2019
+Attendance:
+* Utpal
+* Sonam
+* Dimitri
+* Linardo
+* Imad
+Topic of discussion: User stories and start to think about data structures (SQL)
+Detail: Went over user stories and how to improve them. Data Structure for app to access for its functionalities.
+
