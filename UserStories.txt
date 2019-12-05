@@ -17,7 +17,7 @@ As a trip organizer, I want to check the weather on the day of travel so the org
 As a trip organizer, I want to make a group so the group members can see what the app’s suggestions.
 
 Tourist 
-9. As a tourist, I want to automatically receive weather updates and clothing suggestions as I travel around United Kingdom so that I can get a heads up on the weather and save time from planning my outfit wear.
+As a tourist, I want to automatically receive weather updates and clothing suggestions as I travel around United Kingdom so that I can get a heads up on the weather and save time from planning my outfit wear.
 
 Teenager
 As a teenager, I want to get good suggestions on possible outfits to wear so that it saves me time from having to plan on what to wear.
