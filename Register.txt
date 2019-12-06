@@ -34,3 +34,13 @@ Attendance:
 Topic of discussion: User stories and start to think about data structures (SQL)
 Detail: Went over user stories and how to improve them. Data Structure for app to access for its functionalities.
 
+Date: 29/11/2019
+Attendance:
+* Utpal
+* Sonam
+* Dimitri
+* Linardo
+* Imad
+* Madelynn
+Topic of discussion: Poker planning
+Detail: categorize user stories for difficulty in fibonacci numbers(1,2,3,5,8). Start to think about how we will tackle user stories. We decided to work on easy(1, 2 or 3 difficulty) user stories in pairs, 3 in total. 
