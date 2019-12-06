@@ -34,7 +34,7 @@ Attendance:
 Topic of discussion: User stories and start to think about data structures (SQL)
 Detail: Went over user stories and how to improve them. Data Structure for app to access for its functionalities.
 
-Date: 29/11/2019
+Date: 06/12/2019
 Attendance:
 * Utpal
 * Sonam
