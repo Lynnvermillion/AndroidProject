@@ -22,6 +22,15 @@ Attendance:
 Topic of discussion: User stories and Data Structure
 Detail: …
 
+Date: 04/01/2020
+Attendance:
+* Utpal
+* Sonam
+* Dimitri
+* Madelyn
+Topic of discussion: Poker Planning
+Detail: …
+
 Tutor meetings
 
 Date: 29/11/2019
